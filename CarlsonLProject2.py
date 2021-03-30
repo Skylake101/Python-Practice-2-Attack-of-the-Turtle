@@ -1,15 +1,13 @@
 """
 Code written by Luke Carlson
-9/23/2016
-Programming 1
-Project 2
+
+Python has a built in turtle you can use to draw simple objects, I experiment with it here
 """
 
 import turtle
 turtle.speed(9999999)
 """
-The instructions said to set the turtle speed
-to the fastest setting, so I just made it ludicrously fast
+I made turtle ludicrously fast for my own amusement
 """
 turtle.width(5)
 turtle.penup()
