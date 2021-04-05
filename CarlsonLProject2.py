@@ -1,5 +1,5 @@
 """
-Code written by Luke Carlson
+Author: Luke Carlson
 
 Python has a built in turtle you can use to draw simple objects, I experiment with it here
 """
